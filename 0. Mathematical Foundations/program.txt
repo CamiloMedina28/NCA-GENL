@@ -1,0 +1,10 @@
+Mathematical notation for ML
+Vectors, matrices, and tensors
+Dot products and cosine similarity
+Basic probability and statistics
+Derivatives, gradients, and optimization
+From linear models to neural networks
+Loss functions
+Gradient descent and backpropagation
+Neural-network architectures
+Then transformers and LLM-specific foundations
