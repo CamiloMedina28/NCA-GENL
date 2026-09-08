@@ -1,2 +1,10 @@
 papers/
 __pycache__
+
+# Datasets
+
+training.1600000.processed.noemoticon.csv
+Tweets.csv
+
+.env
+venv
